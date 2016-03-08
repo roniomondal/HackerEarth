@@ -1,0 +1,1 @@
+Solution for HackerEath Code Monk
